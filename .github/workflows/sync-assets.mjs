@@ -16,23 +16,23 @@ const PROJECTS = [
   },
   {
     title: 'Next.js E-Commerce Platform',
-    repo: 'ziad-wdev/Store',
+    repo: 'ziad-aboughaleb/Store',
     url: 'https://store-two-mu.vercel.app/',
   },
   {
     title: 'Digital Pro',
-    repo: 'ziad-wdev/DigitalPro',
-    url: 'https://ziad-wdev.github.io/DigitalPro/',
+    repo: 'ziad-aboughaleb/DigitalPro',
+    url: 'https://ziad-aboughaleb.github.io/DigitalPro/',
   },
   {
     title: 'Fresh Flavor',
-    repo: 'ziad-wdev/FreshFlavor',
-    url: 'https://ziad-wdev.github.io/FreshFlavor/',
+    repo: 'ziad-aboughaleb/FreshFlavor',
+    url: 'https://ziad-aboughaleb.github.io/FreshFlavor/',
   },
   {
     title: 'AESTHETIC',
-    repo: 'ziad-wdev/AESTHETIC',
-    url: 'https://ziad-wdev.github.io/AESTHETIC/',
+    repo: 'ziad-aboughaleb/AESTHETIC',
+    url: 'https://ziad-aboughaleb.github.io/AESTHETIC/',
   },
 ]
 
