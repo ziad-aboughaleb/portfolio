@@ -79,7 +79,7 @@
     ],
     "pageUrl": "https://ziad-aboughaleb.github.io/FreshFlavor/",
     "githubUrl": "https://github.com/ziad-aboughaleb/FreshFlavor",
-    "imageUrl": "https://via.placeholder.com/1920x1080.png?text=Preview+Coming+Soon"
+    "imageUrl": "/projects/freshflavor.jpeg"
   },
   {
     "name": "AESTHETIC",
@@ -92,6 +92,6 @@
     ],
     "pageUrl": "https://ziad-aboughaleb.github.io/AESTHETIC/",
     "githubUrl": "https://github.com/ziad-aboughaleb/AESTHETIC",
-    "imageUrl": "https://via.placeholder.com/1920x1080.png?text=Preview+Coming+Soon"
+    "imageUrl": "/projects/aesthetic.jpeg"
   }
 ]
